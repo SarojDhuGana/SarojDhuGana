@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saroj Dhungana</h1>
 <h3 align="center">A passionate Jr.frontend developer from Nepal</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarojdhugana&label=Profile%20views&color=0e75b6&style=flat" alt="sarojdhugana" /> </p>
-
 <p align="left"> <a href="https://twitter.com/@sarojdh662" target="blank"><img src="https://img.shields.io/twitter/follow/@sarojdh662?logo=twitter&style=for-the-badge" alt="@sarojdh662" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [dhunganasaroj.com.np](dhunganasaroj.com.np)
 
 - 📫 How to reach me **SarojDhungana9840@gmail.com**
 
