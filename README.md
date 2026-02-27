@@ -11,15 +11,11 @@
 💬 Ask me about **React, Next.js, Strapi integration & reusable UI architecture**  
 ⚡ Fun fact: Started from electronics — now building scalable web apps 🚀  
 
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saroj-dhungana-710909286/)
 [![X](https://img.shields.io/badge/X-black?logo=twitter&logoColor=white)](https://x.com/SarojDh662)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarojdhungana9840@gmail.com)
-
----
 
 ## 💻 Tech Stack
 
@@ -39,8 +35,6 @@
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
 
 ## 📊 GitHub Stats
 
